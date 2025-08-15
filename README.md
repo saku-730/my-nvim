@@ -21,6 +21,8 @@
 
 ## Plugins
 
+Using lazy:plugin manager
+
 - hichunk.lua
 - neo-tree.lua
 
