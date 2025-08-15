@@ -2,6 +2,7 @@
 
 ## Directory structure
 
+```
 ├── init.lua
 ├── lazy-lock.json
 ├── lua
@@ -11,6 +12,7 @@
 │       ├── hichunk.lua
 │       ￤
 └── README.md
+```
 
 - init.lua:import other lua files
 - keymaps.lua:setting keymaps
