@@ -25,4 +25,4 @@ Using lazy:plugin manager
 
 - hichunk.lua
 - neo-tree.lua
-
+- lualine.lua
